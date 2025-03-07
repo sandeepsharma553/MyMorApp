@@ -1,0 +1,5 @@
+# ninja log v5
+7	74	0	G:/MyData/MyMor/MyMor/android/app/.cxx/Debug/161t242w/x86_64/CMakeFiles/cmake.verify_globs	9cbc6fc8fcaf91e4
+2	17451	7630332642613607	CMakeFiles/appmodules.dir/G_/MyData/MyMor/MyMor/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	b946cc525cfdb8ac
+9	18462	7630332652897995	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d48e6198ce213385
+18463	19327	7630332661993028	G:/MyData/MyMor/MyMor/android/app/build/intermediates/cxx/Debug/161t242w/obj/x86_64/libappmodules.so	689c113d0eb4437f
