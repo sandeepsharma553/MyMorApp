@@ -1,1 +1,1 @@
-# MyMor
+# MyMorApp
