@@ -1,0 +1,16 @@
+# ninja log v5
+2	53	0	G:/MyData/MyMor/MyMorApp/android/app/.cxx/Debug/2e103b5f/armeabi-v7a/CMakeFiles/cmake.verify_globs	ed9c1775f9ebd077
+1	14467	7630405222028935	CMakeFiles/appmodules.dir/G_/MyData/MyMor/MyMorApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	5f8b421492be43d6
+55	672	7630523889675109	build.ninja	1e9c1b435f67cd5d
+9	16038	7630405237719923	CMakeFiles/appmodules.dir/OnLoad.cpp.o	e4b87469261f5852
+16040	16391	7630405241457748	G:/MyData/MyMor/MyMorApp/android/app/build/intermediates/cxx/Debug/2e103b5f/obj/armeabi-v7a/libappmodules.so	7e9bc697d77e335e
+0	11	0	clean	a7599ba112d4aef9
+3	66	0	G:/MyData/MyMor/MyMorApp/android/app/.cxx/Debug/2e103b5f/armeabi-v7a/CMakeFiles/cmake.verify_globs	ed9c1775f9ebd077
+31	15338	7630524055749736	CMakeFiles/appmodules.dir/G_/MyData/MyMor/MyMorApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	6839fbfba8844af3
+37	16614	7630524068682277	CMakeFiles/appmodules.dir/OnLoad.cpp.o	a261f20e92ab44a4
+16616	17232	7630524075378436	G:/MyData/MyMor/MyMorApp/android/app/build/intermediates/cxx/Debug/2e103b5f/obj/armeabi-v7a/libappmodules.so	8614b883e621cd9a
+2	150	0	G:/MyData/MyMor/MyMorApp/android/app/.cxx/Debug/2e103b5f/armeabi-v7a/CMakeFiles/cmake.verify_globs	ed9c1775f9ebd077
+2	239	0	G:/MyData/MyMor/MyMorApp/android/app/.cxx/Debug/2e103b5f/armeabi-v7a/CMakeFiles/cmake.verify_globs	ed9c1775f9ebd077
+3	550	0	G:/MyData/MyMor/MyMorApp/android/app/.cxx/Debug/2e103b5f/armeabi-v7a/CMakeFiles/cmake.verify_globs	ed9c1775f9ebd077
+3	223	0	G:/MyData/MyMor/MyMorApp/android/app/.cxx/Debug/2e103b5f/armeabi-v7a/CMakeFiles/cmake.verify_globs	ed9c1775f9ebd077
+0	66	0	clean	a7599ba112d4aef9

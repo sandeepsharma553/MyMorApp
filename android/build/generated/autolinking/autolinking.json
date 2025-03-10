@@ -1,8 +1,58 @@
 {
-  "root": "G:\\MyData\\MyMor\\MyMor",
-  "reactNativePath": "G:\\MyData\\MyMor\\MyMor\\node_modules\\react-native",
+  "root": "G:\\MyData\\MyMor\\MyMorApp",
+  "reactNativePath": "G:\\MyData\\MyMor\\MyMorApp\\node_modules\\react-native",
   "reactNativeVersion": "0.78",
-  "dependencies": {},
+  "dependencies": {
+    "@react-native-async-storage/async-storage": {
+      "root": "G:\\MyData\\MyMor\\MyMorApp\\node_modules\\@react-native-async-storage\\async-storage",
+      "name": "@react-native-async-storage/async-storage",
+      "platforms": {
+        "ios": {
+          "podspecPath": "G:\\MyData\\MyMor\\MyMorApp\\node_modules\\@react-native-async-storage\\async-storage\\RNCAsyncStorage.podspec",
+          "version": "2.1.2",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "G:\\MyData\\MyMor\\MyMorApp\\node_modules\\@react-native-async-storage\\async-storage\\android",
+          "packageImportPath": "import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;",
+          "packageInstance": "new AsyncStoragePackage()",
+          "buildTypes": [],
+          "libraryName": "rnasyncstorage",
+          "componentDescriptors": [],
+          "cmakeListsPath": "G:/MyData/MyMor/MyMorApp/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-splash-screen": {
+      "root": "G:\\MyData\\MyMor\\MyMorApp\\node_modules\\react-native-splash-screen",
+      "name": "react-native-splash-screen",
+      "platforms": {
+        "ios": {
+          "podspecPath": "G:\\MyData\\MyMor\\MyMorApp\\node_modules\\react-native-splash-screen\\react-native-splash-screen.podspec",
+          "version": "3.3.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "G:\\MyData\\MyMor\\MyMorApp\\node_modules\\react-native-splash-screen\\android",
+          "packageImportPath": "import org.devio.rn.splashscreen.SplashScreenReactPackage;",
+          "packageInstance": "new SplashScreenReactPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "G:/MyData/MyMor/MyMorApp/node_modules/react-native-splash-screen/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    }
+  },
   "commands": [
     {
       "name": "bundle",
@@ -165,7 +215,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "G:\\MyData\\MyMor\\MyMor"
+          "default": "G:\\MyData\\MyMor\\MyMorApp"
         },
         {
           "name": "--platform <string>",
@@ -457,7 +507,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "G:\\MyData\\MyMor\\MyMor\\ios",
+      "sourceDir": "G:\\MyData\\MyMor\\MyMorApp\\ios",
       "xcodeProject": {
         "name": "MyMor.xcodeproj",
         "path": ".",
@@ -466,7 +516,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "G:\\MyData\\MyMor\\MyMor\\android",
+      "sourceDir": "G:\\MyData\\MyMor\\MyMorApp\\android",
       "appName": "app",
       "packageName": "com.mymor",
       "applicationId": "com.mymor",

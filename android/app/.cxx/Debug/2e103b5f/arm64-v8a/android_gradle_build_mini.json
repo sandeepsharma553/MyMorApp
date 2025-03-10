@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "G:\\MyData\\MyMor\\MyMorApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\sande\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "G:\\MyData\\MyMor\\MyMorApp\\android\\app\\.cxx\\Debug\\2e103b5f\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\sande\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "G:\\MyData\\MyMor\\MyMorApp\\android\\app\\.cxx\\Debug\\2e103b5f\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "arm64-v8a",
+      "output": "G:\\MyData\\MyMor\\MyMorApp\\android\\app\\build\\intermediates\\cxx\\Debug\\2e103b5f\\obj\\arm64-v8a\\libappmodules.so",
+      "runtimeFiles": [
+        "C:\\Users\\sande\\.gradle\\caches\\8.12\\transforms\\a8b92c8222e2e1e6b43cad54fdde4c10\\transformed\\jetified-fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\sande\\.gradle\\caches\\8.12\\transforms\\c7018ff52569100e09a41814798e87d0\\transformed\\jetified-react-android-0.78.0-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\sande\\.gradle\\caches\\8.12\\transforms\\c7018ff52569100e09a41814798e87d0\\transformed\\jetified-react-android-0.78.0-debug\\prefab\\modules\\reactnative\\libs\\android.arm64-v8a\\libreactnative.so"
+      ]
+    }
+  }
+}
